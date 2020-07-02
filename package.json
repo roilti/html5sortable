@@ -1,0 +1,16 @@
+{
+  "name": "html5sortable",
+  "version": "1.0.1",
+  "description": "HTML5 Sortable jQuery Plugin",
+  "main": "./jquery.sortable.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roilti/html5sortable.git"
+  },
+  "homepage": "https://github.com/farhadi/html5sortable",
+  "scripts": {},
+  "author": "farhadi",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
